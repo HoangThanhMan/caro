@@ -1,0 +1,3 @@
+﻿  Model.cpp
+D:\caro\Caro\Model.cpp(135,6): warning C4101: 'i': unreferenced local variable
+  Caro.vcxproj -> D:\caro\x64\Debug\Caro.exe
