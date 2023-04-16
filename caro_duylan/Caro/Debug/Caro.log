@@ -1,5 +1,0 @@
-﻿  View.cpp
-D:\Code\Caro\Caro\View.cpp(409,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\Code\Caro\Caro\View.cpp(418,9): warning C4018: '<': signed/unsigned mismatch
-D:\Code\Caro\Caro\View.cpp(475,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Caro.vcxproj -> D:\Code\Caro\Debug\Caro.exe
